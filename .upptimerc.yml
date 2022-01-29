@@ -20,6 +20,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Pleroma
+      href: https://eientei.org
+    - title: Matrix
+      href: https://matrix.eientei.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
