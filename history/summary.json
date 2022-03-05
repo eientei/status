@@ -4,19 +4,19 @@
     "url": "https://eientei.org",
     "icon": "https://favicons.githubusercontent.com/eientei.org",
     "slug": "pleroma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 494,
-    "timeWeek": 800,
-    "timeMonth": 838,
-    "timeYear": 821,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 831,
+    "timeDay": 852,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2022-03-05": 1
+      "2022-03-05": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://matrix.eientei.org",
     "icon": "https://favicons.githubusercontent.com/matrix.eientei.org",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 469,
-    "timeWeek": 752,
-    "timeMonth": 830,
-    "timeYear": 802,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 801,
+    "timeDay": 624,
+    "timeWeek": 755,
+    "timeMonth": 828,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 7
     }
   }
 ]
