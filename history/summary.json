@@ -4,10 +4,10 @@
     "url": "https://eientei.org",
     "icon": "https://favicons.githubusercontent.com/eientei.org",
     "slug": "pleroma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 821,
@@ -15,14 +15,16 @@
     "timeWeek": 800,
     "timeMonth": 838,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-05": 1
+    }
   },
   {
     "name": "Matrix",
     "url": "https://matrix.eientei.org",
     "icon": "https://favicons.githubusercontent.com/matrix.eientei.org",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 752,
     "timeMonth": 830,
     "timeYear": 802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-05": 0
+    }
   }
 ]
