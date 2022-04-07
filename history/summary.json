@@ -6,15 +6,15 @@
     "slug": "pleroma",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
-    "time": 899,
-    "timeDay": 2669,
-    "timeWeek": 1473,
-    "timeMonth": 973,
-    "timeYear": 899,
+    "time": 898,
+    "timeDay": 810,
+    "timeWeek": 1484,
+    "timeMonth": 969,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2022-04-05": 149
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 774,
-    "timeWeek": 650,
+    "timeDay": 778,
+    "timeWeek": 672,
     "timeMonth": 715,
     "timeYear": 764,
     "dailyMinutesDown": {}
